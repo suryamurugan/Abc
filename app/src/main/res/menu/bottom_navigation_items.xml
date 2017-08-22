@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/CS"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="CS" />
+
+    <item
+        android:id="@+id/IS"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="IS"/>
+    <item
+        android:id="@+id/EC"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="EC" />
+    <item
+        android:id="@+id/ME"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="ME" />
+    <item
+        android:id="@+id/CV"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="CV" />
+
+
+
+
+
+
+
+</menu>
